@@ -36,7 +36,7 @@ module.exports.run = async function ({ api, event }) {
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 ║ wa.me/01872929248
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
-║ t.me/yoursahu
+║ t.me/Tntanvir420
 ╚═════════════════════ ✿
 `;
 
